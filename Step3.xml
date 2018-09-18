@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="Step3.xslt" type="text/xsl" ?>
+
+<AllMovies>
+  <movie id="01">
+    <title>Wizard of Oz</title>
+    <director>King Vidor</director>
+    <year>1939</year>
+    <genre>Classics, Sci-Fi, Fantasy</genre>
+    <link>https://www.rottentomatoes.com/m/the_wizard_of_oz_1939/</link>
+  </movie>
+  <movie id="02">
+    <title>The Third Man</title>
+    <director>Carol Reed</director>
+    <year>1949</year>
+    <genre>Classics, Mystery, Suspense</genre>
+    <link>https://www.rottentomatoes.com/m/the-third-man/</link>
+  </movie>
+  <movie id="03">
+    <title>Citizen Kane</title>
+    <director>Orson Welles</director>
+    <year>1941</year>
+    <genre>Classic, Drama, Mystery, Suspense</genre>
+    <link>https://www.rottentomatoes.com/m/citizen_kane/</link>
+  </movie>
+  <movie id="04">
+    <title>The Godfather</title>
+    <director>Francis Ford Coppola</director>
+    <year>1972</year>
+    <genre>Drama, Suspense</genre>
+    <link>https://www.rottentomatoes.com/m/godfather/</link>
+  </movie>
+  <movie id="05">
+    <title>Inside Out</title>
+    <director>Pete Docter</director>
+    <year>2015</year>
+    <genre>Comedy, Animation, Children</genre>
+    <link>https://www.rottentomatoes.com/m/inside_out_2015/</link>
+  </movie>
+  <movie id="06">
+    <title>E.T. The Extra-Terrestrial</title>
+    <director>Steven Spielberg</director>
+    <year>1982</year>
+    <genre>Sci-Fi, Children, Fantasy</genre>
+    <link>https://www.rottentomatoes.com/m/et_the_extraterrestrial/</link>
+  </movie>
+  <movie id="07">
+    <title>Toy Story 3</title>
+    <director>Lee Unkrich</director>
+    <year>2010</year>
+    <genre>Animation, Comedy, Children, Sci-Fi</genre>
+    <link>https://www.rottentomatoes.com/m/toy_story_3/</link>
+  </movie>
+  <movie id="08">
+    <title>Selma</title>
+    <director>Ava DuVernay</director>
+    <year>2015</year>
+    <genre>History, Biopic</genre>
+    <link>https://www.rottentomatoes.com/m/selma/</link>
+  </movie>
+  <movie id="09">
+    <title>Zootopia</title>
+    <director>Bryon Howard</director>
+    <year>2016</year>
+    <genre>Comedy, Animation, Action, Adventure</genre>
+    <link>https://www.rottentomatoes.com/m/zootopia/</link>
+  </movie>
+  <movie id="10">
+    <title>Taxi Driver</title>
+    <director>Martin Scorsese</director>
+    <year>1976</year>
+    <genre>Drama, Mystery, Suspense</genre>
+    <link>https://www.rottentomatoes.com/m/taxi_driver/</link>
+  </movie>
+  <movie id="11">
+    <title>The Dark Knight</title>
+    <director>Christopher Nolan</director>
+    <year>2008</year>
+    <genre>Action, Crime, Drama</genre>
+    <link>https://www.rottentomatoes.com/m/the_dark_knight</link>
+  </movie>
+  <movie id="12">
+    <title>The Girl with The Dragon Tattoo</title>
+    <director>David Fincher</director>
+    <year>2011</year>
+    <genre>Drama, Mystery, Suspence</genre>
+    <link>https://www.rottentomatoes.com/m/the_girl_with_the_dragon_tattoo/</link>
+  </movie>
+  <movie id="13">
+    <title>The Last King of Scotland</title>
+    <director>Kevin Macdonald</director>
+    <year>2006</year>
+    <genre>Drama, Thriller</genre>
+  </movie>
+  <movie id="14">
+    <title>The Hurt Locker</title>
+    <director>Kathryn Gigelow</director>
+    <year>2009</year>
+    <genre>Action, Adventure, Drama</genre>
+  </movie>
+  <movie id="15">
+    <title>Aliens</title>
+    <director>James Cameron</director>
+    <year>1986</year>
+    <genre>Horror, Sci-Fi, Thriller, Adventure</genre>
+  </movie>
+</AllMovies>
